@@ -1,0 +1,5 @@
+House	50000
+kereta	220000
+Motor35	3100
+Motor2	3000
+Car1	50000
